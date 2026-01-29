@@ -1,16 +1,50 @@
-version: '3.8'
+version: "3.9"
+
+networks:
+  torrent_net:
+    driver: bridge
 
 services:
-  mongodb:
-    image: mongo:latest
-    container_name: mongodb-container
-    ports:
-      - "27017:27017"
-    environment:
-      MONGO_INITDB_ROOT_USERNAME: admin
-      MONGO_INITDB_ROOT_PASSWORD: password
-    volumes:
-      - mongodb_data:/data/db
 
-volumes:
-  mongodb_data:
+  bittorrent-tracker:
+    image: jarylc/bittorrent-tracker:latest
+    container_name: bt-tracker
+    ports:
+      - "8000:8000"
+      - "8001:8001"
+    restart: unless-stopped
+    networks:
+      - torrent_net
+
+  opentracker:
+    image: anthonyzou/opentracker:latest
+    container_name: opentracker
+    ports:
+      - "6969:6969/udp"
+      - "6969:6969/tcp"
+    restart: unless-stopped
+    networks:
+      - torrent_net
+
+  rutorrent:
+    image: k44sh/rutorrent:latest
+    container_name: rutorrent
+    ports:
+      - "8081:80"
+      - "51413:51413"
+      - "51413:51413/udp"
+    volumes:
+      - ./rutorrent/data:/downloads
+      - ./rutorrent/config:/config
+    restart: unless-stopped
+    networks:
+      - torrent_net
+
+  live-torrent:
+    image: davenchy/live-torrent:v3.2.2
+    container_name: live-torrent
+    ports:
+      - "8082:3000"
+    restart: unless-stopped
+    networks:
+      - torrent_net
