@@ -1,4 +1,4 @@
-![Github_header](https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/all_coding.png)
+![Github_header](https://raw.githubusercontent.com/hifitechindia/hifitechindia/main/all_coding.png)
 
 <p align="center"><img alt="Hello My Friend!" src="https://readme-typing-svg.demolab.com?center=true&vCenter=true&font=Fira+Code&pause=1000&lines=Hello+My+Friend!" /></p>
 <h1 align="center">Hi 👋, I'm MANIKANDAN M | HIFI TECH INDIA</h1>
@@ -7,7 +7,7 @@
 
 Hope you all enjoy the work.
 
-![snake gif](https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/hifitechindia/hifitechindia/main/github-contribution-grid-snake.svg)
 
 Here are some ideas to get you started:
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
@@ -50,20 +50,20 @@ Here are some ideas to get you started:
 </div>
 
 ## 🏆 GitHub Trophies
-<img width="100%" align="middle" src="https://github-profile-trophy.vercel.app/?username=Mani5GRockers&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
+<img width="100%" align="middle" src="https://github-profile-trophy.vercel.app/?username=hifitechindia&theme=discord&no-frame=true&no-bg=true&row=1&column=7" />
 
 
 ## GitHub Stats 🌟
 
-![LiquidX's github stats](https://github-readme-stats.vercel.app/api?username=Mani5GRockers&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mani5GRockers&layout=compact)](https://github.com/Mani5GRockers/github-readme-stats)
-![counter](https://komarev.com/ghpvc/?username=Mani5GRockers&style=flat-square)
+![LiquidX's github stats](https://github-readme-stats.vercel.app/api?username=hifitechindia&theme=vue&count_private=true&show_icons=true&cache_seconds=1800)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hifitechindia&layout=compact)](https://github.com/hifitechindia/github-readme-stats)
+![counter](https://komarev.com/ghpvc/?username=hifitechindia&style=flat-square)
 
 ### Profile Visitors
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mani5GRockers&show_icons=true&locale=en&layout=compact" alt="S M Mahabub Hossain" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hifitechindia&show_icons=true&locale=en&layout=compact" alt="S M Mahabub Hossain" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani5GRockers&show_icons=true&locale=en" alt="S M Mahabub Hossain" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hifitechindia&show_icons=true&locale=en" alt="S M Mahabub Hossain" /></p>
 
 [website]: https://hifitechindia.com
 [website]: https://hifimarket.in
@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<h2>Hey there <img src="https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/mainac/Hi.gif" width="30px">, I'm MANIKANDAN M</h2>
+<h2>Hey there <img src="https://raw.githubusercontent.com/hifitechindia/hifitechindia/mainac/Hi.gif" width="30px">, I'm MANIKANDAN M</h2>
 
 <div align="center" width="50">
 
@@ -90,31 +90,31 @@ Here are some ideas to get you started:
 <code>I love programming. ❤</code>
 <code>IT lover. 😉</code>
 
-<img src="https://raw.githubusercontent.com/Mani5GRockers/Mani5GRockers/main/coding.gif" alt="coding ?">
+<img src="https://raw.githubusercontent.com/hifitechindia/hifitechindia/main/coding.gif" alt="coding ?">
 
 <b>Skills :</b> <code>Python</code> | <code>Java</code> | <code>PHP</code> | <code>WEB Design</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code> | <code>XML</code>
 
-<br><img src="https://github-readme-stats.vercel.app/api?username=Mani5GRockers&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=ffffff&icon_color=2979FF&bg_color=151b24" alt="SVR's github stats">
+<br><img src="https://github-readme-stats.vercel.app/api?username=hifitechindia&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=ffffff&icon_color=2979FF&bg_color=151b24" alt="SVR's github stats">
 
 </div>
-## @Mani5GRockers
+## @hifitechindia
 
 ### GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Mani5GRockers&show_icons=true&locale=en" alt="Manikandan" /></p>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=Mani5GRockers" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hifitechindia&show_icons=true&locale=en" alt="Manikandan" /></p>
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=hifitechindia" /></p>
 <br>
 
 ### GitHub Info
 
-[github]: https://github.com/sponsors/Mani5GRockers
-[twitter]: https://twitter.com/Mani5GRockers
+[github]: https://github.com/sponsors/hifitechindia
+[twitter]: https://twitter.com/hifitechindia
 [instagram]: https://instagram.com/hifi_tech_india/ 
 [telegram]: https://t.me/hifitechindia
-[patreon]: https://patreon.com/Mani5GRockers
+[patreon]: https://patreon.com/hifitechindia
 
 
 # Welcome to My Profile! 👋 
-![https://t.me/Mani5GRockers](https://img.shields.io/badge/telegram-Mani5GRockers-blue)
+![https://t.me/hifitechindia](https://img.shields.io/badge/telegram-hifitechindia-blue)
 
 
 Q | A
