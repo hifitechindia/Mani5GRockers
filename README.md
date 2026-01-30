@@ -84,10 +84,6 @@ Here are some ideas to get you started:
 
 <b>Skills :</b> <code>Python</code> | <code>Java</code> | <code>PHP</code> | <code>WEB Design</code> | <code>MySQL</code> | <code>HTML</code> | <code>CSS</code> | <code>XML</code>
 
-### GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hifitechindia&show_icons=true&locale=en" alt="Manikandan" /></p>
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=hifitechindia" /></p>
-<br>
 
 ### GitHub Info
 
