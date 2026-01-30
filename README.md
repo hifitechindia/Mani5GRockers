@@ -59,12 +59,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hifitechindia&layout=compact)](https://github.com/hifitechindia/github-readme-stats)
 ![counter](https://komarev.com/ghpvc/?username=hifitechindia&style=flat-square)
 
-### Profile Visitors
-
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hifitechindia&show_icons=true&locale=en&layout=compact" alt="S M Mahabub Hossain" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hifitechindia&show_icons=true&locale=en" alt="S M Mahabub Hossain" /></p>
-
 [website]: https://hifitechindia.com
 [website]: https://hifimarket.in
 [facebook]: https://facebook.com/hifimass
